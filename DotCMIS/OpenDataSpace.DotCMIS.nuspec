@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>OpenDataSpace.DotCMIS</id>
-    <version>$version$-devel</version>
+    <id>OpenDataSpace.DotCMIS.Std</id>
+    <version>0.70.0</version>
     <authors>Florian Müller, Till Lorentzen, More Zeng, Fred Roth, Stefan Burnicki, Achim Derigs, Nicolas Raoul</authors>
     <owners>tlorentzen</owners>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
@@ -22,7 +22,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\Debug\DotCMIS.dll" target="lib\net40" />
+    <file src="bin/Debug/DotCMIS.dll" target="lib/net461" />
   </files>
 </package>
 
